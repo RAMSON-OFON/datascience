@@ -3,7 +3,7 @@
 
  # Objectives : Effects of Loan features on ProsperScore
 
-## Dataset
+## Dataset.
 
 The Prosper loan dataset comprises of 113937 loan entries with 81 attributes on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others, from the year 2009-2014. There are two main categories:
 
