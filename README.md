@@ -1,7 +1,7 @@
 # Data science / Analyst
 This Repo shall consist of projects that are part of the datacience life cycle. This cycle include:
 
-Data Capture: Data acquisition, data entry, signal reception, data extraction
+Data Capture: Data acquisition, data entry, signal reception, data extraction.
 
 Maintain: Data warehousing, data cleansing, data staging, data processing, data architecture
 
