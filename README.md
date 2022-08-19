@@ -3,7 +3,7 @@ This Repo shall consist of projects that are part of the datacience life cycle. 
 
 Data Capture: Data acquisition, data entry, signal reception, data extraction.
 
-Maintain: Data warehousing, data cleansing, data staging, data processing, data architecture
+Maintain: Data warehousing, data cleansing, data staging, data processing, data architecture,
 
 Data Processing: Data mining, clustering/classification, data modeling, data summarization,
 
