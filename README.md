@@ -10,3 +10,4 @@ Data Processing: Data mining, clustering/classification, data modeling, data sum
 Communicate: Data reporting, data visualization, business intelligence, decision making
 
 Analyze: Exploratory/confirmatory, predictive analysis, regression, text mining, qualitative analysis.
+
