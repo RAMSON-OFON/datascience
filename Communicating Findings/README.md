@@ -1,5 +1,5 @@
 
-# Project: Communicate Findings
+# Project: Communicate Findings .....
 
  # Objectives : Effects of Loan features on ProsperScore
 
