@@ -11,3 +11,5 @@ Communicate: Data reporting, data visualization, business intelligence, decision
 
 Analyze: Exploratory/confirmatory, predictive analysis, regression, text mining, qualitative analysis.
 Power Bi.
+
+Go.
